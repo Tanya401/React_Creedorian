@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_Creedorian/static/css/main.a1f5153c.css",
+    "main.js": "/React_Creedorian/static/js/main.f155d9f4.js",
+    "static/media/4..jfif": "/React_Creedorian/static/media/4..ca7ff854aa4610387f5a.jfif",
+    "static/media/3..jfif": "/React_Creedorian/static/media/3..5cf5c0ba7bcecee74fa0.jfif",
+    "static/media/2..jfif": "/React_Creedorian/static/media/2..0836f1f3a326c2705c7f.jfif",
+    "static/media/1..jfif": "/React_Creedorian/static/media/1..8e0b092552634fb42bf1.jfif",
+    "index.html": "/React_Creedorian/index.html",
+    "main.a1f5153c.css.map": "/React_Creedorian/static/css/main.a1f5153c.css.map",
+    "main.f155d9f4.js.map": "/React_Creedorian/static/js/main.f155d9f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f5153c.css",
+    "static/js/main.f155d9f4.js"
+  ]
+}
